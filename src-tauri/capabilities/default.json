@@ -1,0 +1,14 @@
+{
+  "identifier": "default",
+  "description": "Default capabilities for MacTranscribe",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "dialog:default",
+    "dialog:allow-save",
+    "dialog:allow-open",
+    "shell:default",
+    "shell:allow-execute",
+    "core:event:default"
+  ]
+}

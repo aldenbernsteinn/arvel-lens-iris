@@ -1,0 +1,972 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.36,
+    "text": "Hey friends, so if friend of mine called me last week and asked me,"
+  },
+  {
+    "start": 3.36,
+    "end": 8.8,
+    "text": "barra what is the fastest way to learn a skill because everyone at work is using it."
+  },
+  {
+    "start": 8.8,
+    "end": 13.52,
+    "text": "So I went and drafted the roadmap for him and I thought, why not cheering it with you?"
+  },
+  {
+    "start": 13.52,
+    "end": 18.16,
+    "text": "I learned a skill the hard way at university. I think 20 to years ago,"
+  },
+  {
+    "start": 18.16,
+    "end": 22.96,
+    "text": "and I was using only books and theory. But today I would learn it totally different"
+  },
+  {
+    "start": 22.96,
+    "end": 28.56,
+    "text": "because we have a lot of amazing resources we have. I tools, communities that are helping each"
+  },
+  {
+    "start": 29.12,
+    "end": 33.6,
+    "text": "so I would learn it in just a few months, reaching an level. So in this video I'm going to share"
+  },
+  {
+    "start": 33.6,
+    "end": 40.72,
+    "text": "with you exactly how I would learn a skill fast as both that engineer and that analyst. So grab your"
+  },
+  {
+    "start": 40.72,
+    "end": 45.44,
+    "text": "cafe and let's go. Now before we jump in I would like to address one thing that many people"
+  },
+  {
+    "start": 45.44,
+    "end": 51.84,
+    "text": "to believe they no longer need to learn a skill because we have AI, AI tools, can generate queries,"
+  },
+  {
+    "start": 51.84,
+    "end": 57.68,
+    "text": "and they no longer need to learn a skill. Well, let me opinion about this yes, it can generate queries"
+  },
+  {
+    "start": 57.76,
+    "end": 63.36,
+    "text": "that looks perfect and if you cannot review and validate the queries as a data analyst,"
+  },
+  {
+    "start": 63.36,
+    "end": 69.36,
+    "text": "you will deliver bad insights and bad insights actually lead to bad decisions for the business."
+  },
+  {
+    "start": 69.36,
+    "end": 73.6,
+    "text": "So you have to understand the scale to review and validate the outcome of AI."
+  },
+  {
+    "start": 73.6,
+    "end": 81.52,
+    "text": "Still one of the most demanding skill in the entire data words. This is so important I should run to answer it."
+  },
+  {
+    "start": 82.0,
+    "end": 88.4,
+    "text": "Shit shit shit, shit. The dad analysts used it every single day, that that engineers"
+  },
+  {
+    "start": 88.4,
+    "end": 94.24,
+    "text": "depend on it to build data pipelines that data scientists rely on it to prepare and clean"
+  },
+  {
+    "start": 94.24,
+    "end": 99.76,
+    "text": "data sets for their models and I can tell you something that is more important almost every"
+  },
+  {
+    "start": 99.76,
+    "end": 105.84,
+    "text": "modern data tool today is powered by SQL. So you have data tricks, snowflakes,pice participants"
+  },
+  {
+    "start": 105.84,
+    "end": 109.28,
+    "text": "the screen L even Kafka be query barbie i."
+  },
+  {
+    "start": 109.28,
+    "end": 111.6,
+    "text": "Tableau locker you just name it."
+  },
+  {
+    "start": 111.6,
+    "end": 114.96,
+    "text": "They all rely and offer users to use a"
+  },
+  {
+    "start": 114.96,
+    "end": 117.76,
+    "text": "logic on their platforms because it is the"
+  },
+  {
+    "start": 117.76,
+    "end": 120.88,
+    "text": "way to say their platform is easy to use."
+  },
+  {
+    "start": 120.88,
+    "end": 123.92,
+    "text": "Some friends, a skill is very relevant."
+  },
+  {
+    "start": 123.92,
+    "end": 126.56,
+    "text": "And now to learn a skill, you have to keep in your mind"
+  },
+  {
+    "start": 126.56,
+    "end": 130.48,
+    "text": "two golden rules spend only 20% of your time"
+  },
+  {
+    "start": 130.48,
+    "end": 133.76,
+    "text": "consuming content and 80% of your time"
+  },
+  {
+    "start": 133.76,
+    "end": 135.36,
+    "text": "querying using a skill."
+  },
+  {
+    "start": 135.44,
+    "end": 138.88,
+    "text": "That means less watching and more doing because"
+  },
+  {
+    "start": 138.88,
+    "end": 142.48,
+    "text": "you don't learn a skill by watching others writing queries"
+  },
+  {
+    "start": 142.48,
+    "end": 146.56,
+    "text": "instead you learn it by doing it yourself by writing queries"
+  },
+  {
+    "start": 146.56,
+    "end": 147.44,
+    "text": "with your hands."
+  },
+  {
+    "start": 147.44,
+    "end": 151.04,
+    "text": "And the second golden rule don't memorize the keyword and the"
+  },
+  {
+    "start": 151.04,
+    "end": 154.0,
+    "text": "syntaxes focus on understand how that that"
+  },
+  {
+    "start": 154.0,
+    "end": 156.24,
+    "text": "moves through the SQL query."
+  },
+  {
+    "start": 156.24,
+    "end": 158.96,
+    "text": "Once you understand the logic, the syntax can be"
+  },
+  {
+    "start": 158.96,
+    "end": 161.44,
+    "text": "very easy because you can ask a i about it."
+  },
+  {
+    "start": 161.44,
+    "end": 164.8,
+    "text": "And this is exactly the mindset that I used to build"
+  },
+  {
+    "start": 164.8,
+    "end": 169.12,
+    "text": "the 30 hours SQL course i sketched almost 400"
+  },
+  {
+    "start": 169.12,
+    "end": 171.68,
+    "text": "animated visuals to let you understand how"
+  },
+  {
+    "start": 171.68,
+    "end": 174.0,
+    "text": "SQL works behind the scenes."
+  },
+  {
+    "start": 174.0,
+    "end": 176.72,
+    "text": "And as well to break the complex concepts into"
+  },
+  {
+    "start": 176.72,
+    "end": 177.76,
+    "text": "easy sketches."
+  },
+  {
+    "start": 177.76,
+    "end": 181.36,
+    "text": "The course is hitting almost two million views in just"
+  },
+  {
+    "start": 181.36,
+    "end": 181.92,
+    "text": "few months."
+  },
+  {
+    "start": 181.92,
+    "end": 182.96,
+    "text": "So check it out."
+  },
+  {
+    "start": 182.96,
+    "end": 185.6,
+    "text": "So with this we have now the right mindset and now I'm"
+  },
+  {
+    "start": 185.6,
+    "end": 188.08,
+    "text": "going to show you the roadmap, but we can start with the data"
+  },
+  {
+    "start": 188.08,
+    "end": 189.84,
+    "text": "analyst then with the data engineer."
+  },
+  {
+    "start": 189.84,
+    "end": 192.88,
+    "text": "So basically the roadmap is divided into four"
+  },
+  {
+    "start": 192.88,
+    "end": 193.84,
+    "text": "simple phases."
+  },
+  {
+    "start": 193.92,
+    "end": 196.96,
+    "text": "The first phase is all about to prepare your setup so you have to"
+  },
+  {
+    "start": 196.96,
+    "end": 199.76,
+    "text": "make few small decisions but they are important one."
+  },
+  {
+    "start": 199.76,
+    "end": 203.2,
+    "text": "The first thing to do is to go and pick only one course."
+  },
+  {
+    "start": 203.2,
+    "end": 205.92,
+    "text": "This is really important because you have to follow one"
+  },
+  {
+    "start": 205.92,
+    "end": 208.48,
+    "text": "instructor and one style of teaching."
+  },
+  {
+    "start": 208.48,
+    "end": 211.44,
+    "text": "So I would never go and jump between courses because this"
+  },
+  {
+    "start": 211.44,
+    "end": 212.48,
+    "text": "can be confusing."
+  },
+  {
+    "start": 212.48,
+    "end": 215.52,
+    "text": "And then after that I wanted to go and make a simple plan just"
+  },
+  {
+    "start": 215.52,
+    "end": 217.04,
+    "text": "the roadmap for you."
+  },
+  {
+    "start": 217.04,
+    "end": 220.0,
+    "text": "Maybe using notion it can help you to see organized"
+  },
+  {
+    "start": 220.0,
+    "end": 223.12,
+    "text": "and to track your progress week by week."
+  },
+  {
+    "start": 223.2,
+    "end": 226.4,
+    "text": "I know there are a lot of platforms that prepare that for you and"
+  },
+  {
+    "start": 226.4,
+    "end": 230.16,
+    "text": "event this video is trying to give you a roadmap, but only make your"
+  },
+  {
+    "start": 230.16,
+    "end": 234.24,
+    "text": "own ones because only you knows that timeline and exactly"
+  },
+  {
+    "start": 234.24,
+    "end": 235.6,
+    "text": "what situation you are in."
+  },
+  {
+    "start": 235.6,
+    "end": 238.96,
+    "text": "And now the third thing that's usually gets people confused is"
+  },
+  {
+    "start": 238.96,
+    "end": 241.52,
+    "text": "which database to use to learn a scale."
+  },
+  {
+    "start": 241.52,
+    "end": 244.16,
+    "text": "My answer for that don't stress yourself."
+  },
+  {
+    "start": 244.16,
+    "end": 247.52,
+    "text": "It doesn't really matter which one you're going to use like my"
+  },
+  {
+    "start": 247.52,
+    "end": 250.56,
+    "text": "Scrail, boss-cress, a Scrail server."
+  },
+  {
+    "start": 250.56,
+    "end": 251.92,
+    "text": "They are all similar."
+  },
+  {
+    "start": 251.92,
+    "end": 255.84,
+    "text": "You are learning a Scrail and not learning a specific database."
+  },
+  {
+    "start": 255.84,
+    "end": 259.36,
+    "text": "And never learn all of them because this makes no sense."
+  },
+  {
+    "start": 259.36,
+    "end": 263.76,
+    "text": "So just use the database that is used in that course that you have picked in"
+  },
+  {
+    "start": 263.76,
+    "end": 264.8,
+    "text": "their first place."
+  },
+  {
+    "start": 264.8,
+    "end": 267.6,
+    "text": "If you still want me to give you a recommendation so either use a"
+  },
+  {
+    "start": 267.6,
+    "end": 270.08,
+    "text": "Scrail server or boss-cress a Scrail."
+  },
+  {
+    "start": 270.08,
+    "end": 274.24,
+    "text": "Now if you are picking a course and you want an interactive one then I recommend"
+  },
+  {
+    "start": 274.24,
+    "end": 274.88,
+    "text": "that a camp."
+  },
+  {
+    "start": 274.88,
+    "end": 278.8,
+    "text": "That a camp's platform lets you code a Scrail right in your browser,"
+  },
+  {
+    "start": 278.8,
+    "end": 280.8,
+    "text": "making it super easy and efficient."
+  },
+  {
+    "start": 280.8,
+    "end": 284.64,
+    "text": "You will start with the basic two advanced Scrail courses"
+  },
+  {
+    "start": 284.64,
+    "end": 288.72,
+    "text": "covering data joins, data manipulation, boss-cress a Scrail"
+  },
+  {
+    "start": 288.72,
+    "end": 291.12,
+    "text": "with the functions database designed and more."
+  },
+  {
+    "start": 291.12,
+    "end": 294.72,
+    "text": "The Scrail as a system advocate is industry-drug-egg-nice and"
+  },
+  {
+    "start": 294.72,
+    "end": 297.52,
+    "text": "really proves your Scrails kills two employers."
+  },
+  {
+    "start": 297.52,
+    "end": 301.12,
+    "text": "But the way they have in you cool feature in the platform they offer a"
+  },
+  {
+    "start": 301.12,
+    "end": 305.6,
+    "text": "Scrail-learning experience that is completely powered by a i that"
+  },
+  {
+    "start": 305.6,
+    "end": 306.96,
+    "text": "adapts to your needs."
+  },
+  {
+    "start": 306.96,
+    "end": 309.68,
+    "text": "Check out the data camp links in that description."
+  },
+  {
+    "start": 309.68,
+    "end": 312.16,
+    "text": "I can get you even 25% discount."
+  },
+  {
+    "start": 312.16,
+    "end": 316.24,
+    "text": "Okay so with us we have now the setup and we move to phase number two,"
+  },
+  {
+    "start": 316.24,
+    "end": 317.2,
+    "text": "the basics."
+  },
+  {
+    "start": 317.2,
+    "end": 322.48,
+    "text": "Here we can learn the core skills that you can use as a data analyst almost every day."
+  },
+  {
+    "start": 322.48,
+    "end": 325.84,
+    "text": "So you can learn everything about the select statements."
+  },
+  {
+    "start": 325.84,
+    "end": 330.24,
+    "text": "How to filter the data using where, how to sort it, using order by,"
+  },
+  {
+    "start": 330.24,
+    "end": 335.28,
+    "text": "how to limit it using limits, then after that you learn how to join tables."
+  },
+  {
+    "start": 335.28,
+    "end": 339.36,
+    "text": "All that I spread it into different tables and you have to learn how to combine them"
+  },
+  {
+    "start": 339.36,
+    "end": 344.24,
+    "text": "and there are different types in our left, right, full and I want you to focus on"
+  },
+  {
+    "start": 344.24,
+    "end": 346.48,
+    "text": "the inner and the left join."
+  },
+  {
+    "start": 346.48,
+    "end": 349.92,
+    "text": "Those are the only two that you will be using almost all the time."
+  },
+  {
+    "start": 349.92,
+    "end": 353.52,
+    "text": "After that's a very important thing you have to learn how to aggregate data."
+  },
+  {
+    "start": 353.52,
+    "end": 359.04,
+    "text": "So you can learn about group-by having and a lot of easy functions like the count,"
+  },
+  {
+    "start": 359.04,
+    "end": 361.84,
+    "text": "some average, max, main and stuff."
+  },
+  {
+    "start": 361.84,
+    "end": 364.48,
+    "text": "All right now after you have learned those three blocks,"
+  },
+  {
+    "start": 364.48,
+    "end": 368.64,
+    "text": "it is time to close your course, no more jumping between videos,"
+  },
+  {
+    "start": 368.64,
+    "end": 371.04,
+    "text": "now it is between you and AI."
+  },
+  {
+    "start": 371.04,
+    "end": 375.44,
+    "text": "So you have to open two things and split your screen between two things."
+  },
+  {
+    "start": 375.44,
+    "end": 379.44,
+    "text": "You have your database inquiry and the other side gonna be AI-like"
+  },
+  {
+    "start": 379.44,
+    "end": 380.24,
+    "text": "changeability."
+  },
+  {
+    "start": 380.24,
+    "end": 384.32,
+    "text": "You have to practice every day using the following prompts."
+  },
+  {
+    "start": 384.32,
+    "end": 387.68,
+    "text": "So first you have to give it some context about what you have already learned,"
+  },
+  {
+    "start": 387.76,
+    "end": 390.4,
+    "text": "select joining tables and as well as aggregation."
+  },
+  {
+    "start": 390.4,
+    "end": 394.4,
+    "text": "So that's AI can create challenges at your level and after that assign"
+  },
+  {
+    "start": 394.4,
+    "end": 400.72,
+    "text": "Chagibility to a role like the SQL coach and next ask it for one question at a time"
+  },
+  {
+    "start": 400.72,
+    "end": 403.44,
+    "text": "and each one's slightly harder than the last."
+  },
+  {
+    "start": 403.44,
+    "end": 408.4,
+    "text": "And you try to write the query to answer the question that you got from the AI."
+  },
+  {
+    "start": 408.4,
+    "end": 411.6,
+    "text": "After that sends your query to Chagibility to review it,"
+  },
+  {
+    "start": 411.6,
+    "end": 416.96,
+    "text": "gives you a feedback and helps you improve and you have to keep repeating this process."
+  },
+  {
+    "start": 417.04,
+    "end": 421.68,
+    "text": "Get a challenge, write your own query, get a feedback and repeat."
+  },
+  {
+    "start": 421.68,
+    "end": 426.88,
+    "text": "Okay so now once you feel comfortable with the basics, it's time to move to the advanced phase."
+  },
+  {
+    "start": 426.88,
+    "end": 431.76,
+    "text": "This is where a scale becomes very powerful to let you solve any real analytical problems."
+  },
+  {
+    "start": 431.76,
+    "end": 435.52,
+    "text": "So the first thing to learn is the analytical window functions."
+  },
+  {
+    "start": 435.52,
+    "end": 438.72,
+    "text": "This is the most important thing to learn on the whole scale."
+  },
+  {
+    "start": 438.72,
+    "end": 442.96,
+    "text": "So focus on functions like the RONEUMBER, RANK, LACK and LEAD."
+  },
+  {
+    "start": 442.96,
+    "end": 447.28,
+    "text": "They can help you to make amazing things like the running total, the moving average."
+  },
+  {
+    "start": 447.28,
+    "end": 451.2,
+    "text": "It is used all time for reporting and product analyzes."
+  },
+  {
+    "start": 451.2,
+    "end": 456.16,
+    "text": "Next you have to learn about the date functions because analysts works all the time on reports"
+  },
+  {
+    "start": 456.16,
+    "end": 457.68,
+    "text": "that are time-based."
+  },
+  {
+    "start": 457.68,
+    "end": 463.68,
+    "text": "So learn how to extract and format dates, how to subtract and add dates and stuff like that."
+  },
+  {
+    "start": 463.68,
+    "end": 468.32,
+    "text": "Then finally I wanted to learn two advanced concepts, the CTE,"
+  },
+  {
+    "start": 468.32,
+    "end": 473.12,
+    "text": "a common table expression and the subquiries because in real projects you will be"
+  },
+  {
+    "start": 473.12,
+    "end": 479.28,
+    "text": "end up writing really complex queries and if you don't know those two, you can end up in two cows."
+  },
+  {
+    "start": 479.28,
+    "end": 485.36,
+    "text": "So it can turn your complex query into smaller readable steps, that is easier for you to write"
+  },
+  {
+    "start": 485.36,
+    "end": 486.32,
+    "text": "and to read."
+  },
+  {
+    "start": 486.32,
+    "end": 491.12,
+    "text": "So those are the three advanced topics that you have to master and after that the same thing"
+  },
+  {
+    "start": 491.12,
+    "end": 495.44,
+    "text": "can happen, you can close the course and it's only between you and AI."
+  },
+  {
+    "start": 495.44,
+    "end": 500.08,
+    "text": "So again you're going to give a prompt where you tell the context for the AI and you're going"
+  },
+  {
+    "start": 500.08,
+    "end": 504.88,
+    "text": "to get the challenge and you keep practicing until you get those concepts."
+  },
+  {
+    "start": 504.88,
+    "end": 507.84,
+    "text": "Take as much time as you can at this phase."
+  },
+  {
+    "start": 507.84,
+    "end": 512.08,
+    "text": "And now we move to the last phase to the fun part and honestly the most important one,"
+  },
+  {
+    "start": 512.08,
+    "end": 515.04,
+    "text": "we will be building our SQL portfolio projects."
+  },
+  {
+    "start": 515.04,
+    "end": 518.16,
+    "text": "And we're going to put everything that we are doing in a GitHub."
+  },
+  {
+    "start": 518.16,
+    "end": 521.12,
+    "text": "So you're going to go and create a new repository for a SQL."
+  },
+  {
+    "start": 521.12,
+    "end": 524.16,
+    "text": "And typically there are like two types of projects that you can do."
+  },
+  {
+    "start": 524.16,
+    "end": 528.48,
+    "text": "The first one is an EDA project exploratory data analysis."
+  },
+  {
+    "start": 528.48,
+    "end": 534.96,
+    "text": "This is where you grab a dataset, you start asking real questions and answer them using queries."
+  },
+  {
+    "start": 534.96,
+    "end": 540.32,
+    "text": "So you're going to do stuff like exploring the database structure, you start exploring the"
+  },
+  {
+    "start": 540.32,
+    "end": 546.24,
+    "text": "tables and columns and a few basic analyzes like what is the total sales, the total number of"
+  },
+  {
+    "start": 546.24,
+    "end": 549.52,
+    "text": "customers, the average revenues and stuff like that."
+  },
+  {
+    "start": 549.6,
+    "end": 554.56,
+    "text": "The second type is the business analyzes projects where you start asking really business"
+  },
+  {
+    "start": 554.56,
+    "end": 557.44,
+    "text": "questions and you analyze it again using a SQL."
+  },
+  {
+    "start": 557.44,
+    "end": 562.08,
+    "text": "So you can analyze the changes over the time, you're going to check the trends,"
+  },
+  {
+    "start": 562.08,
+    "end": 567.52,
+    "text": "performance, you're going to analyze the part to hold relationships, how to segment"
+  },
+  {
+    "start": 567.52,
+    "end": 569.76,
+    "text": "customers and products and a lot of things."
+  },
+  {
+    "start": 569.76,
+    "end": 572.8,
+    "text": "You're going to start analyzing like you are working at the company."
+  },
+  {
+    "start": 572.8,
+    "end": 574.88,
+    "text": "And my friends, they're good news."
+  },
+  {
+    "start": 574.88,
+    "end": 579.44,
+    "text": "Both of those projects are already available in my channel where you have everything that"
+  },
+  {
+    "start": 579.44,
+    "end": 584.8,
+    "text": "datasets and the questions and I take use step by step like I do in my real projects."
+  },
+  {
+    "start": 584.8,
+    "end": 589.12,
+    "text": "And of course my friends, you are totally welcome to use them as your portfolio projects,"
+  },
+  {
+    "start": 589.12,
+    "end": 591.84,
+    "text": "but I really appreciate that if you give credits."
+  },
+  {
+    "start": 591.84,
+    "end": 596.32,
+    "text": "So that's it. This is how I would learn a SQL fast if I am targeting to be"
+  },
+  {
+    "start": 596.32,
+    "end": 600.4,
+    "text": "in that analyst. And now we're going to talk about that engineering, but it will not be that"
+  },
+  {
+    "start": 600.4,
+    "end": 605.84,
+    "text": "big difference. So the first two phases are exactly the same one as a data analyst, but in phase"
+  },
+  {
+    "start": 605.92,
+    "end": 609.76,
+    "text": "three things are a little bit different where you go deeper as a data analyst."
+  },
+  {
+    "start": 609.76,
+    "end": 613.52,
+    "text": "So you're still going to learn about that in the functions, but I want you to focus on their"
+  },
+  {
+    "start": 613.52,
+    "end": 617.2,
+    "text": "wrong number function because it can help you to remove the blikots."
+  },
+  {
+    "start": 617.2,
+    "end": 622.0,
+    "text": "Next, I want you to learn about the string functions. They are extremely important because"
+  },
+  {
+    "start": 622.0,
+    "end": 627.36,
+    "text": "it's our work to clean up the raw data and I can say 80% of data is string values."
+  },
+  {
+    "start": 627.36,
+    "end": 632.48,
+    "text": "So you have to learn how to change the cases, how to split data, how to extract things,"
+  },
+  {
+    "start": 632.56,
+    "end": 637.6,
+    "text": "how to trim and prepare data in your tables. And the same thing you are writing complex queries"
+  },
+  {
+    "start": 637.6,
+    "end": 642.64,
+    "text": "and for that you have to learn the techniques of CTE and sub queries to make things more"
+  },
+  {
+    "start": 642.64,
+    "end": 648.16,
+    "text": "modular and easy. And after that I wanted to focus on how to create views in databases."
+  },
+  {
+    "start": 648.16,
+    "end": 654.16,
+    "text": "We use it all time in different layers to make things reusable and to give interfaces to other"
+  },
+  {
+    "start": 654.16,
+    "end": 658.88,
+    "text": "teams. As a part of your job, you have to optimize the upper formats. So you have to learn things"
+  },
+  {
+    "start": 658.88,
+    "end": 665.6,
+    "text": "like partitioning, indexing, how to reduce tablescans, how to read execution plans and stuff like"
+  },
+  {
+    "start": 665.6,
+    "end": 670.8,
+    "text": "that. So we have to learn more things in the advanced phase. Then you keep practicing and we come"
+  },
+  {
+    "start": 670.8,
+    "end": 675.52,
+    "text": "to the last phase of the projects. You have to build as well your skill portfolio and I thought"
+  },
+  {
+    "start": 675.52,
+    "end": 680.64,
+    "text": "to recommend you to build an SQL data warehouse because with that you can learn how to build"
+  },
+  {
+    "start": 680.64,
+    "end": 686.48,
+    "text": "an architecture, how to make the layering of this data warehouse. How to build the tables,"
+  },
+  {
+    "start": 686.48,
+    "end": 692.72,
+    "text": "how to import and clean up the data, how to do data modeling. So you have to build a whole data"
+  },
+  {
+    "start": 692.72,
+    "end": 699.12,
+    "text": "warehouse end to end. And of course here I have as well for you good news. I have a full data warehouse"
+  },
+  {
+    "start": 699.12,
+    "end": 704.72,
+    "text": "project in my channel. Completely for free where I take use the by step on how to build one and"
+  },
+  {
+    "start": 704.72,
+    "end": 709.92,
+    "text": "same thing. Use it as your portfolio, but please give credits. As you can see the three steps are"
+  },
+  {
+    "start": 709.92,
+    "end": 716.32,
+    "text": "really easy. You have to learn little practice a lot with the AI and then build portfolio projects."
+  },
+  {
+    "start": 716.72,
+    "end": 721.36,
+    "text": "Alright, no more coffee. So if you like this type of content and you want to support me,"
+  },
+  {
+    "start": 721.36,
+    "end": 725.76,
+    "text": "then subscribe, like, comment, this can really help to reach nice people like you."
+  },
+  {
+    "start": 725.76,
+    "end": 730.0,
+    "text": "And by the way, I have launched a new platform data with barra.com and then you can find"
+  },
+  {
+    "start": 730.0,
+    "end": 734.16,
+    "text": "the data academy. You can find there that two courses, the SQL and Tableau, they are really"
+  },
+  {
+    "start": 734.16,
+    "end": 738.72,
+    "text": "similar to the YouTube, but they are way more organized and structured. And once you get"
+  },
+  {
+    "start": 738.72,
+    "end": 743.36,
+    "text": "certificate of completion at the end and I will be adding more and more challenges to the course."
+  },
+  {
+    "start": 743.36,
+    "end": 754.64,
+    "text": "Thank you so much for watching and I will see you in the next video. Bye bye."
+  }
+]

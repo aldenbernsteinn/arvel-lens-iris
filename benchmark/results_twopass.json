@@ -1,0 +1,202 @@
+{
+  "approach": "TWO_PASS_v3_leader",
+  "input_frames": 57,
+  "output_frames": 21,
+  "must_keep": 19,
+  "leader_reps": 2,
+  "leader_clusters": 2,
+  "leader_threshold": 15000,
+  "total_time_ms": 248,
+  "peak_rss_mb": 92.1,
+  "kept_frames": [
+    {
+      "fname": "scene_0001.jpg",
+      "timestamp": 3.433333,
+      "ts_str": "0:03",
+      "edge_pct": 2.2,
+      "lap_var": 17.0,
+      "jpeg_kb": 12.8,
+      "reason": "leader_new_cluster"
+    },
+    {
+      "fname": "scene_0003.jpg",
+      "timestamp": 15.233333,
+      "ts_str": "0:15",
+      "edge_pct": 7.5,
+      "lap_var": 394.0,
+      "jpeg_kb": 44.2,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0006.jpg",
+      "timestamp": 27.033333,
+      "ts_str": "0:27",
+      "edge_pct": 7.4,
+      "lap_var": 720.0,
+      "jpeg_kb": 39.0,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0008.jpg",
+      "timestamp": 78.4,
+      "ts_str": "1:18",
+      "edge_pct": 9.9,
+      "lap_var": 467.0,
+      "jpeg_kb": 16.6,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0009.jpg",
+      "timestamp": 84.533333,
+      "ts_str": "1:24",
+      "edge_pct": 3.8,
+      "lap_var": 176.0,
+      "jpeg_kb": 10.0,
+      "reason": "leader_new_cluster"
+    },
+    {
+      "fname": "scene_0014.jpg",
+      "timestamp": 165.566667,
+      "ts_str": "2:45",
+      "edge_pct": 6.5,
+      "lap_var": 666.0,
+      "jpeg_kb": 16.3,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0015.jpg",
+      "timestamp": 170.666667,
+      "ts_str": "2:50",
+      "edge_pct": 6.0,
+      "lap_var": 1094.0,
+      "jpeg_kb": 15.4,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0025.jpg",
+      "timestamp": 244.166667,
+      "ts_str": "4:04",
+      "edge_pct": 5.1,
+      "lap_var": 1184.0,
+      "jpeg_kb": 17.3,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0029.jpg",
+      "timestamp": 276.7,
+      "ts_str": "4:36",
+      "edge_pct": 7.9,
+      "lap_var": 1593.0,
+      "jpeg_kb": 27.4,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0030.jpg",
+      "timestamp": 282.5,
+      "ts_str": "4:42",
+      "edge_pct": 8.5,
+      "lap_var": 1887.0,
+      "jpeg_kb": 24.0,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0031.jpg",
+      "timestamp": 284.7,
+      "ts_str": "4:44",
+      "edge_pct": 7.4,
+      "lap_var": 1452.0,
+      "jpeg_kb": 23.2,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0036.jpg",
+      "timestamp": 312.166667,
+      "ts_str": "5:12",
+      "edge_pct": 5.8,
+      "lap_var": 254.0,
+      "jpeg_kb": 22.2,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0039.jpg",
+      "timestamp": 422.266667,
+      "ts_str": "7:02",
+      "edge_pct": 7.4,
+      "lap_var": 328.0,
+      "jpeg_kb": 31.5,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0041.jpg",
+      "timestamp": 465.833333,
+      "ts_str": "7:45",
+      "edge_pct": 5.1,
+      "lap_var": 238.0,
+      "jpeg_kb": 26.2,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0042.jpg",
+      "timestamp": 467.733333,
+      "ts_str": "7:47",
+      "edge_pct": 5.6,
+      "lap_var": 978.0,
+      "jpeg_kb": 24.8,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0043.jpg",
+      "timestamp": 486.333333,
+      "ts_str": "8:06",
+      "edge_pct": 7.8,
+      "lap_var": 3917.0,
+      "jpeg_kb": 36.5,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0047.jpg",
+      "timestamp": 549.5,
+      "ts_str": "9:09",
+      "edge_pct": 5.2,
+      "lap_var": 1281.0,
+      "jpeg_kb": 23.1,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0049.jpg",
+      "timestamp": 592.1,
+      "ts_str": "9:52",
+      "edge_pct": 7.7,
+      "lap_var": 3646.0,
+      "jpeg_kb": 47.2,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0050.jpg",
+      "timestamp": 643.833333,
+      "ts_str": "10:43",
+      "edge_pct": 5.4,
+      "lap_var": 249.0,
+      "jpeg_kb": 34.2,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0051.jpg",
+      "timestamp": 645.8,
+      "ts_str": "10:45",
+      "edge_pct": 6.0,
+      "lap_var": 2172.0,
+      "jpeg_kb": 36.2,
+      "reason": "high_edge"
+    },
+    {
+      "fname": "scene_0055.jpg",
+      "timestamp": 731.066667,
+      "ts_str": "12:11",
+      "edge_pct": 7.8,
+      "lap_var": 1704.0,
+      "jpeg_kb": 42.6,
+      "reason": "high_edge"
+    }
+  ]
+}
