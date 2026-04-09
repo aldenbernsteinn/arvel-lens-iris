@@ -263,9 +263,17 @@ Pillow          — image loading for pHash
 
 ---
 
-## Future: Arvel Iris (Description Model)
+## Future: Arvel Iris (Visual Structure Description Model)
 
-A planned companion model (~55-65M params) that generates structured text descriptions of frames — Markdown for slides, LaTeX for math, SMILES for chemistry, code blocks for code. Would reduce API token cost by 79% by sending text descriptions instead of images for ~85% of frames. Training plan documented separately.
+A planned companion model (~55-65M params) that describes the **visual structure** of graphics — things where shape, layout, and spatial relationships ARE the information. Not a text reader. Not a code copier. A graphics describer.
+
+**What Iris describes:** Math equations (→LaTeX, because OCR can't handle spatial notation like fractions/integrals), molecular structures (→SMILES), biology diagrams, physics diagrams (forces, circuits, ray optics), engineering schematics, flowcharts, system architectures, charts (shape and trend), data visualizations, anatomical illustrations, IDE context (panel state, not the code), slide layouts (hierarchy, not the text), UI wireframes, musical notation, maps, geological cross-sections.
+
+**What Iris does NOT do:** Read text (OCR handles that), copy code character-by-character (OCR), transcribe speech (Parakeet). Iris handles what OCR fundamentally cannot — visual structure where the spatial arrangement IS the meaning.
+
+~60M params, ~62MB on disk (INT8), ~150MB RAM, ~55-80ms per image on CPU. Trained on 1M+ existing scientific figure-description pairs + ~25K gap data generated with Gemma batch.
+
+Would reduce API token cost by ~79% by sending structured descriptions instead of images. Full training plan, all datasets, every domain with examples, architecture, and accuracy targets: **`ARVEL_IRIS.md`**
 
 ---
 
